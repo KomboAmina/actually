@@ -1,4 +1,4 @@
-# actually
+# Actually
 ![alt text](https://github.com/KomboAmina/actually/blob/main/Actually%20Logo%201-02.png?raw=true)
 
 <p>Chrome extension to calculate annual/hourly pay rates in USD and convert them to KES.</p>
