@@ -1,8 +1,9 @@
 # actually
-![alt text](https://)
-Chrome extension to calculate annual/hourly pay rates in USD and convert them to KES.
-Interface: UIKit
-Logic: jQuery.
+![alt text](https://github.com/KomboAmina/actually/blob/main/Actually%20Logo%201-02.png?raw=true)
+
+<p>Chrome extension to calculate annual/hourly pay rates in USD and convert them to KES.</p>
+<p>Interface: UIKit</p>
+<p>Logic: jQuery.</p>
 
 <h2>Installation:</h2>
 <ol>
@@ -12,8 +13,11 @@ Logic: jQuery.
 </ol>
 
 <h2>How to Use:</h2>
+
+![alt text](https://github.com/KomboAmina/actually/blob/main/Actually-Screenshot-1.jpg?raw=true)
+
 <ol>
-  <li>click on the icon in your browser's toolbar.</li>
+  <li>click the icon in your browser's toolbar.</li>
   <li>choose an exchange rate, change any of the other fields to generate a monthly or hourly salary.</li>
   <li>click the "reset" button to return default values.</li>
 </ol>
